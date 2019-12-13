@@ -3,7 +3,7 @@
 
 "Eating is a necessity but cooking is an art"
 
-This deployed application can be viewed at: https://tcauley91.github.io/Feed-Me/
+This deployed application can be viewed at: https://brockthigpen.github.io/Feed-Me
 
 Made with HTML and CSS powered by JavaScript and JQuery
 This application allows users to find local restaurants and recipes according to the user’s inputs. The scope of this application was to showcase a website having full functionality using JavaScript, two API’S along with a responsive CSS platform Foundation. The basic layout structure of the website can be seen below in the following images. 
